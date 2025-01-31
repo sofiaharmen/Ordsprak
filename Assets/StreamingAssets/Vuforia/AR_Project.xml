@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Piano" size="0.150000 0.152667" />
+    <ImageTarget name="Stick" size="0.150000 0.155728" />
+    <ImageTarget name="Goose" size="0.150000 0.152247" />
+    <ImageTarget name="Cow" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>
