@@ -1,1 +1,4 @@
-Hi! This is an AR project about Swedish idiom called "Ordspråk" which I created in connection with an XR course. It is built in Unity using the Vuforia Engine.
+Hi! This is an AR project about Swedish idioms called "Ordspråk" which I created in connection with an XR course. It is built in Unity using the Vuforia Engine.
+
+
+![alt text](https://github.com/sofiaharmen/Ordsprak/blob/main/Ordspråk_title.png?raw=true)
